@@ -1,4 +1,4 @@
-# Tableau Symphony 🎨
+# Tableau Projects
 
 ## Welcome to the Gallery of Data Elegance!
 
